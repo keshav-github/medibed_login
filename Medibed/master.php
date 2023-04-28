@@ -47,14 +47,14 @@
               <!-- The user image in the navbar-->
               <img src="../dist/img/avatar5.png" class="user-image" alt="User Image">
               <!-- hidden-xs hides the username on small devices so only the image appears. -->
-              <span class="hidden-xs">Ahmed Khalid</span>
+              <span class="hidden-xs">Keshav Singh</span>
             </a>
             <ul class="dropdown-menu">
               <!-- The user image in the menu -->
               <li class="user-header">
                 <img src="../dist/img/avatar5.png" class="img-circle" alt="User Image">
                 <p>
-                  Ahmed Khalid - Developer
+                  Keshav Singh - Developer
                   <small>Member since May. 2018</small>
                 </p>
               </li>
@@ -86,7 +86,7 @@
           <img src="../dist/img/avatar5.png" class="img-circle" alt="User Image">
         </div>
         <div class="pull-left info">
-          <p>Ahmed Khalid</p>
+          <p>Keshav Singh</p>
           <!-- Status -->
           <a href=""><i class="fa fa-circle text-success"></i> Online</a>
         </div>
@@ -146,7 +146,7 @@
   <!-- Main Footer -->
   <footer class="main-footer">
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2018 <a href="https://codinginfinite.com">Coding Infinite</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2018 <a href="https://github.com/keshav-github/medibed_login">Github Link</a>.</strong> All rights reserved.
   </footer>
   <!-- Add the sidebar's background. This div must be placed
   immediately after the control sidebar -->

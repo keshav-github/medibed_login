@@ -73,7 +73,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Multi user role based application login in php mysqli</title>
+  <title>Medibed</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -81,7 +81,7 @@
 </head>
 <body>
 <div class="card text-center" style="padding:20px;">
-  <h3>Multi user role based application login in php mysqli</h3>
+  <h3>Medibed</h3>
 </div><br>
 <div class="container">
   <div class="row">
